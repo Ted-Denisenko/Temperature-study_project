@@ -16,4 +16,5 @@ int main()
     SaveToFile example;
     example.getTemperature();
     example.save();
+    return 0;
 }
