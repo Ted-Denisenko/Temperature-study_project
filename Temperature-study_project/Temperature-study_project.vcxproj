@@ -140,12 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Records.cpp" />
-    <ClCompile Include="SaveToFile.cpp" />
     <ClCompile Include="Temperature-study_project.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Records.h" />
-    <ClInclude Include="SaveToFile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
